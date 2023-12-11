@@ -55,7 +55,7 @@
 
 <h3 align="justify">Feel free to send me a connection request & I will be happy to accept your request. </h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilgaware)](https://github.com/swapnilgaware/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilgaware&show_icons=true&theme=radical)
 
