@@ -62,7 +62,7 @@
 
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnilgaware&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-[![Top Langs](https://github-readme-stats-swapnilgaware.vercel.app//api/top-langs/?username=swapnilgaware&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 
