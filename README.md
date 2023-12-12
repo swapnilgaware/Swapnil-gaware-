@@ -56,8 +56,7 @@
 <h3 align="justify">Feel free to send me a connection request & I will be happy to accept your request. </h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilgaware&show_icons=true&theme=radical)
-
-username=swapnilgaware&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-swapnilgaware.vercel.app//api?username=swapnilgaware&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilgaware&theme=github-dark&hide_border=true" alt="swapnilgaware"/></p>
 
 
