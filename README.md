@@ -1,13 +1,4 @@
 # Hi, I'm Swapnil 👋🏻
-
-## I'm a Full Stack Developer 👨🏻‍💻 
-- 🌱 I’m expanding my knowledge in Cloud and DevOps.
-- 🤝🏻 I’m looking to collaborate with other content creators and developers.
-- 🥅 2024 Goals: Contribute to Open Source projects and to learn new technologies.
-- 👐🏻 I'm looking for unlimited leaning opportunities.
-- 🤝🏻 I am passionate about my work and always eager to connect with other experts.
-
-
 <h2>Tech Stack 💻</h2>
 
 <p>
